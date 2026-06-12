@@ -28,5 +28,11 @@ Here are some ideas to get you started:
 ## 👋 Profile
 My name is **Runqi (Allen) Wang**. I am currently a third-year undergraduate student at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/), [**S**hanghai **J**iao **T**ong **U**niversity](https://www.sjtu.edu.cn/), pursuing a double major in **Mathematics and Applied Mathematics** and **Artificial Intelligence**.
 
+## 🔍 Interest
+Machine Learning, Quantitative Finance, Statistics
+
 ## 📬 Contact
 📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com  
+
+## 💻 Skills
+Python, C++, MATLAB | Git, GitHub, LaTeX, Jupyter, Anaconda, Linux | HTML, CSS, JavaScript
