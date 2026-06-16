@@ -31,3 +31,5 @@ My name is **Runqi (Allen) Wang** | **王润祺**. I am currently a third-year u
 - 🔍 Interest: Machine Learning, Quantitative Finance, Statistics
 - 📬 Contact: 📧 allen-w@sjtu.edu.cn | runqiwang777@gmail.com  
 - 💻 Skills: Python, C++, MATLAB | Git, GitHub, LaTeX, Jupyter, Anaconda, Linux | HTML, CSS, JavaScript
+
+- ​​​​​​​![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runqi-allen-wang&show_icons=true)
