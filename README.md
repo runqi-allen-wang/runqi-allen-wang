@@ -35,8 +35,8 @@ My name is **Runqi (Allen) Wang** | **王润祺**. I am currently a third-year u
 ​​​​Click [here](https://runqi-allen-wang.github.io/), and go to my homepage.​​
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=holi&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqi-allen-wang&theme=holi&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqi-allen-wang&theme=holi&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqi-allen-wang&theme=holi&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqi-allen-wang&theme=holi&animation=draw&utcOffset=0)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqi-allen-wang&theme=github&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqi-allen-wang&theme=github&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqi-allen-wang&theme=github&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqi-allen-wang&theme=github&animation=draw&utcOffset=0)
