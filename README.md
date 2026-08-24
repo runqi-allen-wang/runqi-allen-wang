@@ -32,10 +32,34 @@ My name is **Runqi (Allen) Wang** | **王润祺**. I am currently a third-year u
 - 📬 Contact: 📧 allen-w@sjtu.edu.cn *(prefer)* | runqiwang777@gmail.com  
 - 💻 Skills: Python, C++, MATLAB | Git, GitHub, LaTeX, Jupyter, Anaconda, Linux | HTML, CSS, JavaScript
 
-​​​​Click [here](https://runqi-allen-wang.github.io/), and go to my homepage.​​
+​​​​Click [here](https://runqi-allen-wang.github.io/), and go to my homepage.
+​​
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github_dark&animation=draw&name=Runqi+%28Allen%29+Wang">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw&name=Runqi+%28Allen%29+Wang">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw&name=Runqi+%28Allen%29+Wang">
+</picture>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw&name=Runqi+%28Allen%29+Wang&title_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqi-allen-wang&theme=github&animation=draw&title_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqi-allen-wang&theme=github&animation=draw&title_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqi-allen-wang&theme=github&animation=draw&title_color=000000)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqi-allen-wang&theme=github&animation=draw&utcOffset=8&title_color=000000)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqi-allen-wang&theme=github_dark&animation=draw">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqi-allen-wang&theme=github&animation=draw">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runqi-allen-wang&theme=github&animation=draw">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqi-allen-wang&theme=github_dark&animation=draw">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqi-allen-wang&theme=github&animation=draw">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runqi-allen-wang&theme=github&animation=draw">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqi-allen-wang&theme=github_dark&animation=draw">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqi-allen-wang&theme=github&animation=draw">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runqi-allen-wang&theme=github&animation=draw">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqi-allen-wang&theme=github_dark&animation=draw&utcOffset=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqi-allen-wang&theme=github&animation=draw&utcOffset=8">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=runqi-allen-wang&theme=github&animation=draw&utcOffset=8">
+</picture>
