@@ -35,9 +35,17 @@ My name is **Runqi (Allen) Wang** | **王润祺**. I am currently a third-year u
 ​​​​Click [here](https://runqi-allen-wang.github.io/), and go to my homepage.
 ​​
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github_dark&animation=draw&name=Runqi+%28Allen%29+Wang">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw&name=Runqi+%28Allen%29+Wang">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw&name=Runqi+%28Allen%29+Wang">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github_dark&animation=draw&name=Runqi+%28Allen%29+Wang&bg_color=00000000&border_color=00000000"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw&name=Runqi+%28Allen%29+Wang&bg_color=00000000&border_color=00000000"
+  >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runqi-allen-wang&theme=github&animation=draw&name=Runqi+%28Allen%29+Wang&bg_color=00000000&border_color=00000000"
+  >
 </picture>
 
 <picture>
